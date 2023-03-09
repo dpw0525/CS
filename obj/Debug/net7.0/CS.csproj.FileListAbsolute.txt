@@ -1,0 +1,15 @@
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.csproj.AssemblyReference.cache
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.AssemblyInfoInputs.cache
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.AssemblyInfo.cs
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.csproj.CoreCompileInputs.cache
+/Users/derekward/Desktop/C#/Numeric Types/CS/bin/Debug/net7.0/CS
+/Users/derekward/Desktop/C#/Numeric Types/CS/bin/Debug/net7.0/CS.deps.json
+/Users/derekward/Desktop/C#/Numeric Types/CS/bin/Debug/net7.0/CS.runtimeconfig.json
+/Users/derekward/Desktop/C#/Numeric Types/CS/bin/Debug/net7.0/CS.dll
+/Users/derekward/Desktop/C#/Numeric Types/CS/bin/Debug/net7.0/CS.pdb
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.dll
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/refint/CS.dll
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.pdb
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/CS.genruntimeconfig.cache
+/Users/derekward/Desktop/C#/Numeric Types/CS/obj/Debug/net7.0/ref/CS.dll
